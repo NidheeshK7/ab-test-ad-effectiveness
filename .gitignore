@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+.venv/
+
+# Data: download from Kaggle (see README), never committed
+data/
+
+# Jupyter / Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
